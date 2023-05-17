@@ -3,7 +3,7 @@
 	"file": "main.css",
 	"sources": [
 		"main.scss",
-		"../sample_site/_sass/no-style-please.scss"
+		"_sass/no-style-please.scss"
 	],
 	"sourcesContent": [
 		"@import \"no-style-please\";",
