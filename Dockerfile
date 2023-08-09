@@ -1,4 +1,4 @@
-FROM ruby:3.2-alpine@sha256:1df6125b0f90e087123698e1b2df1c6a544a40033a5a14bfa3ef7067863d3474
+FROM ruby:3.2-alpine@sha256:ee39ade2cbda43fd466d787a595f142c9fa318284dd1d6b3e2f9590a9f4f75ab
 
 LABEL version="2.0.1"
 LABEL repository="https://github.com/helaili/jekyll-action"
